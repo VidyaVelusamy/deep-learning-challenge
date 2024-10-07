@@ -22,8 +22,8 @@ o	NAME: Identification column, not useful for prediction.
 Compiling, Training, and Evaluating the Model
 •	Model Architecture:
 o	Layers: The model was constructed with the following layers:
-	Input layer: 36 input features
-	Hidden layers: 3 layers with 10, 10 neurons respectively
+	Input layer: 40 input features
+	Hidden layers:2 layers with 20,10, 10,100,100 neurons respectively
 	Output layer: 1 neuron (sigmoid activation for binary classification)
 o	Activation Functions: ReLU (Rectified Linear Unit) for hidden layers and Sigmoid for the output layer. ReLU was chosen for its effectiveness.
 •	Achieved Performance:
